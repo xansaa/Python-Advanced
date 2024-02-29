@@ -1,5 +1,5 @@
 class Time:
-    max_hours: int = 23  
+    max_hours: int = 23
     max_minutes: int = 59
     max_seconds: int = 59
 
