@@ -1,6 +1,6 @@
 from abc import ABC
 
-from project.animal import Animal
+from project.animals.animal import Animal
 
 
 class Dog(Animal, ABC):
